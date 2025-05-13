@@ -44,5 +44,5 @@ Built with:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/afaqxdev/flutter-audio-book.git
+git clone https://github.com/afaqxdev/Audio_Player.git
 cd flutter-audio-book
